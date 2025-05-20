@@ -1,0 +1,49 @@
+{
+  "header": {
+    "name": "Brendon Harrisson Avelino",
+    "bio": "Desenvolvedor Full Stack com foco em soluções web responsivas. Experiência em HTML, CSS, JavaScript, React e Node.js. Buscando oportunidades para crescer como freelancer e construir projetos de alto nível.",
+    "contact": "Entrar em contato"
+  },
+  "about": {
+    "title": "Sobre Mim",
+    "text1": "Tenho experiência prática no desenvolvimento de sites, landing pages responsivas e integração de APIs. Atuei no suporte a projetos completos em equipe.",
+    "text2": "Embora ainda não tenha atuado formalmente em empresas, já reformulei o site do SESI e desenvolvi o site institucional da empresa Augebit durante meu curso técnico no SENAI.",
+    "text3": "Também uso o Figma como ferramenta de design para esboçar layouts e interfaces, garantindo projetos bem planejados e visuais atraentes."
+  },
+  "projects": {
+    "title": "Projetos em Destaque",
+    "list": [
+      {
+        "title": "Reformulação do site Sesi",
+        "desc": "Projeto colaborativo focado em reformular a interface e estrutura do sistema de diário eletrônico do SESI."
+      },
+      {
+        "title": "App de Previsão de Tempo",
+        "desc": "Aplicativo simples que utiliza a API Weather para exibir informações meteorológicas."
+      },
+      {
+        "title": "Requinte Churrasqueiras",
+        "desc": "Reconstrução do site institucional da Requinte, com foco em produtos como churrasqueiras."
+      },
+      {
+        "title": "Augebit",
+        "desc": "Desenvolvimento front-end do site institucional da empresa Augebit."
+      }
+    ]
+  },
+  "skills": {
+    "title": "Minhas Habilidades",
+    "list": ["HTML", "CSS", "JavaScript", "React", "Node.js", "Git/GitHub", "Figma"]
+  },
+  "contact": {
+    "title": "Entre em Contato",
+    "description": "Fico feliz que queira conversar! Escolha o canal que preferir 👇",
+    "whatsapp": "Fale comigo no WhatsApp",
+    "copyEmail": "Copiar meu e-mail",
+    "sendEmail": "Enviar e-mail agora",
+    "back": "⬅️ Voltar para o Portfólio"
+  },
+  "footer": {
+    "text": "Todos os direitos reservados."
+  }
+}

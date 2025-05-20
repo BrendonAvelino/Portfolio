@@ -1,0 +1,49 @@
+{
+  "header": {
+    "name": "Brendon Harrisson Avelino",
+    "bio": "Full Stack Developer focused on responsive web solutions. Experienced with HTML, CSS, JavaScript, React, and Node.js. Looking for freelance opportunities to grow and build high-level projects.",
+    "contact": "Get in touch"
+  },
+  "about": {
+    "title": "About Me",
+    "text1": "I have hands-on experience in building websites, responsive landing pages, and API integration. I’ve collaborated on full team projects.",
+    "text2": "Although I haven't formally worked in companies yet, I redesigned the SESI website and developed the institutional site for Augebit during my technical course at SENAI.",
+    "text3": "I also use Figma as a design tool to sketch layouts and interfaces, ensuring well-planned and attractive projects."
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "list": [
+      {
+        "title": "SESI Website Redesign",
+        "desc": "Collaborative project focused on redesigning the interface and structure of SESI's electronic diary system."
+      },
+      {
+        "title": "Weather Forecast App",
+        "desc": "Simple app using the Weather API to display weather data."
+      },
+      {
+        "title": "Requinte Churrasqueiras",
+        "desc": "Reconstruction of Requinte's institutional website focused on barbecue products."
+      },
+      {
+        "title": "Augebit",
+        "desc": "Frontend development of the institutional website for the company Augebit."
+      }
+    ]
+  },
+  "skills": {
+    "title": "My Skills",
+    "list": ["HTML", "CSS", "JavaScript", "React", "Node.js", "Git/GitHub", "Figma"]
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "description": "Glad you want to talk! Choose the channel below 👇",
+    "whatsapp": "Chat with me on WhatsApp",
+    "copyEmail": "Copy my e-mail",
+    "sendEmail": "Send e-mail now",
+    "back": "⬅️ Back to Portfolio"
+  },
+  "footer": {
+    "text": "All rights reserved."
+  }
+}
