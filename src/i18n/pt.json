@@ -13,37 +13,43 @@
   "projects": {
     "title": "Projetos em Destaque",
     "list": [
-      {
-        "title": "Reformulação do site Sesi",
-        "desc": "Projeto colaborativo focado em reformular a interface e estrutura do sistema de diário eletrônico do SESI."
-      },
-      {
-        "title": "App de Previsão de Tempo",
-        "desc": "Aplicativo simples que utiliza a API Weather para exibir informações meteorológicas."
-      },
-      {
-        "title": "Requinte Churrasqueiras",
-        "desc": "Reconstrução do site institucional da Requinte, com foco em produtos como churrasqueiras."
-      },
-      {
-        "title": "Augebit",
-        "desc": "Desenvolvimento front-end do site institucional da empresa Augebit."
-      }
-    ]
+  {
+    "title": "Reformulação do site Sesi",
+    "desc": "Projeto colaborativo focado em reformular a interface e estrutura do sistema de diário eletrônico do SESI.",
+    "link": "https://github.com/BrendonAvelino/DiarioEletronico_SESI"
+  },
+  {
+    "title": "App de Previsão de Tempo",
+    "desc": "Aplicativo simples que utiliza a API Weather para exibir informações meteorológicas.",
+    "link": "https://github.com/BrendonAvelino/PrevisaoDeTempo"
+  },
+  {
+    "title": "Requinte Churrasqueiras",
+    "desc": "Reconstrução do site institucional da Requinte, com foco em produtos como churrasqueiras.",
+    "link": "https://github.com/BrendonAvelino/requinte-pj"
+  },
+  {
+    "title": "Augebit",
+    "desc": "Desenvolvimento front-end do site institucional da empresa Augebit.",
+    "link": "https://github.com/BrendonAvelino/Augebit"
+  }
+]
   },
   "skills": {
     "title": "Minhas Habilidades",
     "list": ["HTML", "CSS", "JavaScript", "React", "Node.js", "Git/GitHub", "Figma"]
   },
   "contact": {
-    "title": "Entre em Contato",
-    "description": "Fico feliz que queira conversar! Escolha o canal que preferir 👇",
-    "whatsapp": "Fale comigo no WhatsApp",
-    "copyEmail": "Copiar meu e-mail",
-    "sendEmail": "Enviar e-mail agora",
-    "back": "⬅️ Voltar para o Portfólio"
+  "title": "Entre em Contato",
+  "description": "Fico feliz que queira conversar! Escolha o canal que preferir 👇",
+  "name": "Seu nome",
+  "email": "Seu e-mail",
+  "message": "Sua mensagem",
+  "sendEmail": "Enviar Mensagem",
+  "back": "⬅️ Voltar para o Portfólio"
   },
   "footer": {
     "text": "Todos os direitos reservados."
   }
+  
 }
