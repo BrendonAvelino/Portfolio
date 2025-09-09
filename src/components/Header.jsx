@@ -7,7 +7,7 @@ export default function Header() {
   const { t, language } = useLanguage();
 
   const resumeUrl =
-    language === "pt" ? "/curriculo-pt.pdf" : "/curriculo-en.pdf";
+    language === "pt" ? "/Curriculo-ptbr.pdf" : "/Curriculo-ptbr.pdf";
 
   return (
     <header className="header" data-aos="fade-down">

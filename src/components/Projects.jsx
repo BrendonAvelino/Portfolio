@@ -22,7 +22,7 @@ export default function Projects() {
             title={proj.title}
             description={proj.desc}
             image={images[idx]}
-            link={proj.link} // ✅ agora pega o link correto
+            link={proj.link} 
           />
         ))}
       </div>
