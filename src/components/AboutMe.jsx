@@ -8,15 +8,15 @@ export default function AboutMe() {
 
   return (
     <section className="about-me" data-aos="fade-up">
-      <div className="about-me-photo" style={{ backgroundImage: `url(${eu})` }}></div>
+      <div
+        className="about-me-photo"
+        style={{ backgroundImage: `url(${eu})` }}
+      ></div>
       <div className="about-me-content">
         <h2 className="about-me-title">{t.about.title}</h2>
         <p className="about-me-description">{t.about.text1}</p>
         <p className="about-me-description">{t.about.text2}</p>
         <p className="about-me-description">{t.about.text3}</p>
-        <p className="about-me-motivation">
-          💡 I believe in clean code, intuitive UI, and creating solutions that make a real impact.
-        </p>
       </div>
     </section>
   );
